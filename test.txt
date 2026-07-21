@@ -1,1 +1,1 @@
-current_account.saas_json.dig()
+current_account.saas_json&.dig()
